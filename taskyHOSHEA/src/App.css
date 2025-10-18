@@ -33,6 +33,7 @@ div {
   padding: 10px;
   position: relative;
 }
+
 .title {
   font-weight: bold;
   font-size: 1.2em; 
@@ -94,4 +95,15 @@ form {
   text-align: left;
   width: 50%;
   margin: auto;
+}
+.high {
+  background-color: lightcoral;
+}
+
+.medium {
+  background-color: khaki;
+}
+
+.low {
+  background-color: lightgreen;
 }
